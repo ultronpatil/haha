@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Mouse Event</title>
+</head>
+<body>
+<button id="mybutton">
+  <h1>This is a button</h1>
+</>
+<script>
+document.getElementById("mybutton").addEventListener("mouseover", function(event) {
+  console.log("The mouse entered the div");
+});
+
+document.getElementById("mybutton").addEventListener("mouseleave", function(event) {
+  console.log("The mouse left the div");
+});
+</script>
+</body>
+</html>

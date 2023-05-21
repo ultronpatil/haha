@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!-- <?xml-stylesheet type="text/xsl" href="students.xsl"?> -->
+<?xml-stylesheet type="text/xsl" href="3_students.xsl"?>
+
+<class>
+<student id="01">
+   <name> Divyank Singh Sikarwar </name>
+   <branch> CSE</branch>
+   <age>18</age>
+   <city> Agra </city>
+</student>
+
+<student id="02">
+   <name> Aniket Chauhan </name>
+   <branch> IT</branch>
+   <age> 28</age>
+   <city> Shahjahanpur </city>
+</student>
+
+<student id="03">
+   <name> Simran Agarwal</name>
+   <branch> CSE</branch>
+   <age> 23</age>
+   <city> Buland Shar</city>
+</student>
+  
+</class>
